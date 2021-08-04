@@ -22,3 +22,10 @@ for elem in aa:
 #print(*list(map(lambda x, y: x>y, n)))
 #result = list(map(lambda a, b: a if a > b else b, words))
 #print(lambda x: aa[x], aa)
+a=5
+b=12
+
+if a > b:
+    echo "Bred"
+else:
+    echo "DA"
