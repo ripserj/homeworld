@@ -26,6 +26,6 @@ a=5
 b=12
 
 if a > b:
-    echo "Bred"
+    print("Bred")
 else:
-    echo "DA"
+    print("DA")
