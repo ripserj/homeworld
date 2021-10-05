@@ -24,6 +24,7 @@ for elem in aa:
 #print(lambda x: aa[x], aa)
 a=5
 b=12
+c = 11
 
 if a > b:
     print("Bred")
